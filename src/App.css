@@ -1,0 +1,36 @@
+.glfuN {
+    background-color:#00365F !important;
+}
+.hQsUiY {
+    background-color: #00365F !important;
+    color: white !important;
+}
+
+
+.iOCYje {
+    background-color: #C4C7CD !important;
+}
+
+.ipSaXD {
+    background: #00365F !important;
+    color: white !important;
+}
+.cRmLCo{
+    background: #00365F!important;
+}
+.success-container{
+    background: white;
+    position: absolute;
+    top: 0;
+    width: 100%!important;
+    height: 100vh;
+    z-index: 1;
+}
+.main-chat{
+    position: absolute;
+    top: 50px;
+    left: 350px;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
