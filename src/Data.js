@@ -3,7 +3,7 @@ import FetchData from "./FetchData";
 const Data = [
   {
     id: '1',
-    message: 'Hello Welcome to One-Solutions ! \n  What is your Name ?',
+    message: 'Hello',
     trigger: 'name',
   },
   {

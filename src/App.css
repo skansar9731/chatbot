@@ -1,3 +1,158 @@
+/*****/
+
+.fBGGBn {
+    overflow-y:scroll; 
+    height: 530px !important ;
+}
+
+button, input, optgroup, select, textarea {
+    margin-top: 0px !important;
+}
+
+
+.dPdbIW {
+    height: 650px !important;
+    width: 380px !important;
+    margin-top: -60px !important;
+    margin-left: -35px;
+    border-radius: 30px !important;
+}
+.icnbtn{
+    color: #fff;
+   
+}
+.showhidenbtn:hover{
+    background-color:  #7C9BB0 ;
+}
+
+
+.showhidenbtn{
+    position: absolute;
+    bottom: 40px;
+    right: 30px;
+    background-color: #00365F;
+    border-radius: 100px;
+    height: 60px;
+    width: 60px;
+    border: none;
+
+}
+
+.chat-logo{
+    margin-top: 200px!important;
+}
+
+.iunside-login{
+    color: white;
+    padding: 10px;
+    background-color: #00365F;
+    margin-top: 60px;
+    border-radius: 20px;
+    height: 350px;
+}
+.login-logo-chat{
+    width: 150px;
+    padding: 20px;
+}
+.btn-login-chat{
+    background-color: #7A99AC;
+    border-radius: 20px;
+    height: 40px;
+    width: 70px;
+    border: none;
+    color: white;
+    border: black;
+}
+.btn-login-chat:hover{
+    background-color: white;
+    color: #00365F;
+    font-weight: bold;
+}
+.chat-label{
+    padding-left: 55px;
+}
+.inpt{
+    margin-top: 50px;
+    border-radius: 10px;
+    margin-left: 47px;
+    padding: 5px;
+}
+.lgn{
+    margin: 10px !important;
+    margin-top: -50px !important;
+    border: 3px solid #161717 ;
+    height: 600px;
+    width: 330px;
+    padding: 4px;
+    border-radius: 30px;
+   }
+.bi-person-fill{
+    border-radius: 100%;
+    background-color: #003865;
+    font-size: 30px;
+    color: white;
+   padding-right: 10px;
+   }
+   .bi-search{
+    padding-left: 88px;
+    font-size: 25px;
+   }
+.meeting-icon{
+    margin-top: 175px;
+}
+
+.bi-house-door-fill{
+    color: #00365F;
+    font-size: 30px;
+}
+.bi-chat-dots-fill{
+    color: #00365F;
+    font-size: 30px;
+}
+.bi-mic-fill{
+    font-size: 30px;
+    border-radius:100%;
+    
+
+}
+
+.mic-icon{
+    align-items: center;
+    position: relative;
+    top: 44px;
+    background-color: #00365F;
+    width: 55px!important;
+    margin: auto;
+    border-radius: 100%;
+    width: 40px;
+    color: white;
+    z-index: 9999;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.mic-icon:hover{
+    background-color: #7A99AC;
+}
+
+
+.mblicon{
+    height: 20px;
+    width: 10px;
+}
+
+.chattextbody{
+    margin-left: 1150px;
+    margin-top: 110px;
+    font-family: var(--bs-font-sans-serif);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
 .glfuN {
     background-color:#00365F !important;
 }
@@ -6,31 +161,100 @@
     color: white !important;
 }
 
+.navtab{
+    background: #003865 !important;
+    border-radius: 5px 5px 0px 0px !important;
+    color: white;
+    width: 90px;
+    text-decoration-line: underline;
+    font-weight: bold;
+    font-size: 13px;
+    padding: 4px;
+    
+    }
+    .navtab:hover{
+        color: #7C9BB0;
+        
+    }
 
-.iOCYje {
-    background-color: #C4C7CD !important;
-}
+    .navtab1{
+        text-decoration-line: underline;
+        color: black;
+        font-weight: bold;
+        font-size: 13px;
+        padding: 4px;
+    }
+    
+    .navtab1:hover{
+        color: #7C9BB0;
+        background-color: #00365F;
+        border-radius: 5px 5px 0px 0px !important;
+    }
+    
+    .mtab{
+        width: 200px;
+        height: 47px;
+        left: 19px;
+        top: 191px;
+        color: white;
+        background: #00365F;
+        border-radius: 15px;
+        padding: 9px;
+        font-size: 14px;
+        cursor: pointer;
+    }
+    
+    .mtab:hover{
+        background-color: #7C9BB0;
+    }
+    
+    .mtab1{
+    width: 200px;
+    height: 47px;
+    left: 19px;
+    top: 245px;
+    color: white;
+    background: #7C9BB0;
+    border-radius: 15px;
+    padding: 9px;
+        font-size: 14px;
+    }
+    
+    .mtab2{
+    width: 200px;
+    height: 47px;
+    left: 19px;
+    top: 245px;
+    color: white;
+    background: #7C9BB0;
+    border-radius: 15px;
+    padding: 9px;
+    font-size: 14px;
+    }
+    
+    .mtab1:hover{
+    background-color: #00365F;
+    
+    }
+    .mtab2:hover{
+    background-color: #00365F;
+    
+    }
 
-.ipSaXD {
-    background: #00365F !important;
-    color: white !important;
-}
-.cRmLCo{
-    background: #00365F!important;
-}
-.success-container{
-    background: white;
-    position: absolute;
-    top: 0;
-    width: 100%!important;
-    height: 100vh;
-    z-index: 1;
-}
-.main-chat{
-    position: absolute;
-    top: 50px;
-    left: 350px;
-    margin: auto;
-    width: 50%;
-    padding: 10px;
-}
+    .iOCYje {
+        background-color: #7A99AC !important;
+           color: white !important;
+    }
+       
+    .OS{
+    
+        border: 2px solid black;
+        margin-left: 50px;
+        margin-top: -20px !important;
+        padding: 40px;
+        height: 600px;
+        width: 300px;
+        border-radius: 30px;
+    
+    }
+    
